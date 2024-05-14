@@ -8,8 +8,8 @@ hero:
   tagline: Connect 4 game by JAT Ltd.
   actions:
     - theme: brand
-      text: Docs
-      link: /main
+      text: Start
+      link: /start
     - theme: alt
       text: About
       link: /about
