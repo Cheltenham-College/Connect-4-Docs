@@ -32,7 +32,7 @@ export default defineConfig({
           { text: 'Our Tasks', link: '/our-tasks' },
           { text: 'Impediments', link: '/impediments' },
           { text: 'Evaluation', link: '/evaluation' },
-          { text: 'Back Matter', link: '/back-matter' }
+          { text: 'Epilogue', link: '/epilogue' }
         ]
       }
     ],
