@@ -14,9 +14,14 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: '',
+        items: [
+          { text: 'Back', link: '/' }
+        ]
+      },
+      {
         text: 'Home',
         items: [
-          { text: 'Back to Home', link: '/' },
           { text: 'About', link: '/about' },
           { text: 'Start', link: '/start' }
         ]
