@@ -3,23 +3,19 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Connect 4 Game"
+  text: "A Docs Site"
+  tagline: Connect 4 game by JAT Ltd.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Docs
+      link: /main
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: About
+      link: /about
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Game
+    details: A OOP programmed in python.
 ---
 
