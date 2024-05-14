@@ -16,6 +16,6 @@ hero:
 
 features:
   - title: Game
-    details: A OOP programmed in python.
+    details: A game programmed in python using OOP.
 ---
 
