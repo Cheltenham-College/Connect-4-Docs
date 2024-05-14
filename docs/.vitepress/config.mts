@@ -15,7 +15,7 @@ export default defineConfig({
       {
         text: 'Home',
         items: [
-          { text: 'Home', link: '/' },
+          { text: 'Back to Home', link: '/' },
           { text: 'About', link: '/about' },
           { text: 'Start', link: '/start' }
         ]
