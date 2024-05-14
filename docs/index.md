@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Connect 4 Game"
-  text: "A Docs Site"
-  tagline: Connect 4 game by JAT Ltd.
+  text: "by JAT Ltd."
+  tagline: A Docs Site
   actions:
     - theme: brand
       text: Start
