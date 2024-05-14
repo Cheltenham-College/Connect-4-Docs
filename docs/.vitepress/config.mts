@@ -23,6 +23,7 @@ export default defineConfig({
       {
         text: 'Docs',
         items: [
+          { text: 'Foreword​', link: '/foreword​' },
           { text: 'Terminology & Formatting​', link: '/terminology-formatting' },
           { text: 'Initial Requirements​​', link: '/initial-requirements' },
           { text: 'User Stories​​', link: '/user-stories' },
